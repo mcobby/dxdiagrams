@@ -45,6 +45,10 @@ Feel free to contribute by adding more diagrams or updating the existing ones.
 ![Tooling Choices](./Tooling%20Choices.png "Tooling Choices - Decision framework for choosing tools")
 - **Excalidraw File:** [Tooling Choices.excalidraw](./Tooling%20Choices.excalidraw)
 
+### 11. Tech Stack Example
+![Tech Stack Example](./Tech%20Stack%20Example.png "Tech Stacks - creativity through constraint")
+- **Excalidraw File:** [Tech Stack Example](./Tech%20Stack%20Example.excalidraw)
+
 ---
 
 ## License
