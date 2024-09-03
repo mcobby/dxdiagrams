@@ -46,8 +46,16 @@ Feel free to contribute by adding more diagrams or updating the existing ones.
 - **Excalidraw File:** [Tooling Choices.excalidraw](./Tooling%20Choices.excalidraw)
 
 ### 11. Tech Stack Example
-![Tech Stack Example](./Tech%20Stack%20example.png "Tech Stacks - creativity through constraint")
+![Tech Stack Example](./Tech%20Stack%20Example.png "Tech Stacks - creativity through constraint")
 - **Excalidraw File:** [Tech Stack Example](./Tech%20Stack%20Example.excalidraw)
+
+
+### 12. DX and Governnace Tradeoff
+![DX and Governnace Tradeoff](./Governace%20DX%20TradeOff.png "DX and Governnace Tradeoff")
+- **Excalidraw File:** [DX and Governnace Tradeoff](./Governace%20DX%20TradeOff.excalidraw)
+
+Governace DX TradeOff.excalidraw
+
 
 ---
 
