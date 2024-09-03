@@ -47,4 +47,8 @@ Feel free to contribute by adding more diagrams or updating the existing ones.
 
 ---
 
+## License
+
+This repository is licensed under the GPL v3 License. See the [LICENSE](./LICENSE) file for more information.
+
 
